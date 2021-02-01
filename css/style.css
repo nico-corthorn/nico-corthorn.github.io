@@ -1,0 +1,30 @@
+.container{
+  display:grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-areas: 
+  "hd"
+  "main"
+  "ft";
+  border: 2px solid yellow;
+}
+.blog{
+  display:grid;
+  grid-template-columns: 50% 50%;
+  /* grid-template-rows: 50% 50%; */
+  grid-gap: 10px;
+  border: 1px solid blue;
+}
+.box{
+  border: 1px solid red;
+  background: #F8FA9D;
+  }
+.header{
+  grid-area:hd;
+}
+.content{
+  grid-area: main;
+}
+.footer{
+  grid-area: ft;
+}
