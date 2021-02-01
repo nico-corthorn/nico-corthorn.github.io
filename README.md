@@ -1,2 +1,6 @@
-# nico-corthorn.github.io
-Udacity Front-End Development Nanodegree Project 1
+# Udacity Front-End Development Nanodegree 
+
+## Project 1
+
+Website available at
+https://nico-corthorn.github.io
