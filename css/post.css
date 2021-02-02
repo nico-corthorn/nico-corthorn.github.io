@@ -17,3 +17,8 @@
 	font: sans-serif;
 	color: gray;
 }
+.object-fit_cover{
+	object-fit: cover;
+	width: 100%;
+	height: 300px;
+}
