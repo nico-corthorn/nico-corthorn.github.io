@@ -1,0 +1,19 @@
+.section{
+	font-weight: bold;
+}
+#world{
+	color: blue;
+}
+#health{
+	color: limegreen;
+}
+#finance{
+	color: orange;
+}
+#tech{
+	color: darkgray;
+}
+.date{
+	font: sans-serif;
+	color: gray;
+}
