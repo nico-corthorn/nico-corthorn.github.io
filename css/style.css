@@ -57,3 +57,24 @@
   font-size: smaller;
   color: gray;
 }
+
+
+@media(max-width: 320px){
+.container{
+  display: grid;
+  grid-template-columns: 1% 98% 1%;
+  grid-template-rows: 100px 1fr 100px;
+  grid-template-areas: 
+  "ls hd rs"
+  "ls main rs"
+  "ft ft ft";
+  /*border: 2px solid yellow;*/
+  grid-gap: 20px;
+}
+.blog-grid{
+  display: grid;
+  /*grid-template-columns: 49% 49%;
+  grid-gap: 2%;*/
+  /*border: 1px solid blue;*/
+}
+}
