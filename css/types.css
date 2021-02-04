@@ -1,8 +1,17 @@
 
-a:link{
+a:link {
 	text-decoration: none;
 }
-h2{
+h2 {
     /*padding: 0px;*/
     margin: 0px;
+}
+p {
+	text-align: justify;
+	text-justify: inter-word;
+}
+ul.no-bullets {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
 }
