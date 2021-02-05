@@ -1,6 +1,7 @@
 # Udacity Front-End Development Nanodegree 
 
-## Project 1 (HTML and CSS only)
+## Project 1
 
-Website available at
+Website available at:
 https://nico-corthorn.github.io
+HTML and CSS only.
